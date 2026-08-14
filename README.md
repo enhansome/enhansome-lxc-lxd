@@ -20,8 +20,8 @@
 
 ## Packages and Host Platforms
 
-* [zabbly/incus](https://github.com/zabbly/incus) ⭐ 537 | 🐛 6 | 🌐 Python | 📅 2026-08-07 — Signed Incus packages for supported Debian and Ubuntu releases.
-* [vpsadminos](https://github.com/vpsfreecz/vpsadminos) ⭐ 184 | 🐛 6 | 🌐 Ruby | 📅 2026-08-13 — NixOS and ZFS-based host operating system for unprivileged LXC containers.
+* [zabbly/incus](https://github.com/zabbly/incus) ⭐ 538 | 🐛 6 | 🌐 Python | 📅 2026-08-07 — Signed Incus packages for supported Debian and Ubuntu releases.
+* [vpsadminos](https://github.com/vpsfreecz/vpsadminos) ⭐ 184 | 🐛 6 | 🌐 Ruby | 📅 2026-08-14 — NixOS and ZFS-based host operating system for unprivileged LXC containers.
 * [incus-docker](https://github.com/cmspam/incus-docker) ⭐ 51 | 🐛 1 | 🌐 Dockerfile | 📅 2026-08-10 — Runs Incus and its web UI inside privileged Docker or Podman containers.
 * [copr-lxc4](https://github.com/ganto/copr-lxc4) ⭐ 38 | 🐛 5 | 🌐 Shell | 📅 2026-05-01 — Fedora COPR packages for LXC, LXCFS, LXD, and Incus.
 * [pve-container](https://git.proxmox.com/?p=pve-container.git) — Proxmox VE container manager and runtime built on LXC.
@@ -43,8 +43,8 @@
 ## Infrastructure as Code and Orchestration
 
 * [Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) ⭐ 540 | 🐛 1 | 🌐 Ruby | 📅 2026-07-18 — GitOps and infrastructure-as-code framework for Proxmox LXC containers.
-* [terraform-provider-lxd](https://github.com/terraform-lxd/terraform-provider-lxd) ⭐ 273 | 🐛 11 | 🌐 Go | 📅 2026-08-10 — Manages LXD resources with Terraform or OpenTofu.
-* [proxmox-lxc-autoscale](https://github.com/fabriziosalmi/proxmox-lxc-autoscale) ⭐ 254 | 🐛 15 | 🌐 Python | 📅 2026-08-13 — Dynamically adjusts CPU and memory allocations for Proxmox LXC containers.
+* [terraform-provider-lxd](https://github.com/terraform-lxd/terraform-provider-lxd) ⭐ 273 | 🐛 13 | 🌐 Go | 📅 2026-08-10 — Manages LXD resources with Terraform or OpenTofu.
+* [proxmox-lxc-autoscale](https://github.com/fabriziosalmi/proxmox-lxc-autoscale) ⭐ 254 | 🐛 14 | 🌐 Python | 📅 2026-08-14 — Dynamically adjusts CPU and memory allocations for Proxmox LXC containers.
 * [incus-apply](https://github.com/abiosoft/incus-apply) ⭐ 31 | 🐛 4 | 🌐 Go | 📅 2026-06-15 — Declarative configuration management for Incus resources.
 * [packer-plugin-incus](https://github.com/bketelsen/packer-plugin-incus) ⭐ 15 | 🐛 0 | 🌐 Go | 📅 2026-01-11 — Builds reusable Incus images with Packer provisioners.
 * [packer-plugin-lxd](https://github.com/hashicorp/packer-plugin-lxd) ⭐ 14 | 🐛 10 | 🌐 Go | 📅 2026-05-11 — Builds reusable LXD images with Packer provisioners.
@@ -54,12 +54,12 @@
 
 ## Tools and Development Workflows
 
-* [colima](https://github.com/abiosoft/colima) ⭐ 30,346 | 🐛 385 | 🌐 Go | 📅 2026-08-08 — Runs Docker, containerd, Kubernetes, or Incus on macOS and Linux with minimal setup.
-* [crabbox](https://github.com/openclaw/crabbox) ⭐ 1,297 | 🐛 20 | 🌐 Go | 📅 2026-08-13 — Creates Incus-backed SSH leases for remote development and test workloads.
-* [code-on-incus](https://github.com/mensfeld/code-on-incus) ⭐ 645 | 🐛 29 | 🌐 Go | 📅 2026-08-12 — Runs isolated development agents with root, systemd, Docker, and network threat controls.
-* [garm](https://github.com/cloudbase/garm) ⭐ 373 | 🐛 19 | 🌐 Go | 📅 2026-08-13 and [garm-provider-incus](https://github.com/cloudbase/garm-provider-incus) ⭐ 14 | 🐛 0 | 🌐 Go | 📅 2026-07-10 — Autoscale ephemeral GitHub Actions and Gitea runners on Incus.
+* [colima](https://github.com/abiosoft/colima) ⭐ 30,357 | 🐛 384 | 🌐 Go | 📅 2026-08-13 — Runs Docker, containerd, Kubernetes, or Incus on macOS and Linux with minimal setup.
+* [crabbox](https://github.com/openclaw/crabbox) ⭐ 1,303 | 🐛 16 | 🌐 Go | 📅 2026-08-14 — Creates Incus-backed SSH leases for remote development and test workloads.
+* [code-on-incus](https://github.com/mensfeld/code-on-incus) ⭐ 650 | 🐛 33 | 🌐 Go | 📅 2026-08-13 — Runs isolated development agents with root, systemd, Docker, and network threat controls.
+* [garm](https://github.com/cloudbase/garm) ⭐ 373 | 🐛 19 | 🌐 Go | 📅 2026-08-14 and [garm-provider-incus](https://github.com/cloudbase/garm-provider-incus) ⭐ 14 | 🐛 0 | 🌐 Go | 📅 2026-07-10 — Autoscale ephemeral GitHub Actions and Gitea runners on Incus.
 * [mi-lxc](https://github.com/flesueur/mi-lxc) ⭐ 346 | 🐛 15 | 🌐 Shell | 📅 2026-05-26 — Builds virtual Internet-like networks with LXC for teaching and research.
-* [containarium](https://github.com/FootprintAI/Containarium) ⭐ 269 | 🐛 69 | 🌐 Go | 📅 2026-08-13 — Provides SSH-native isolated environments with an LXC backend, eBPF egress controls, and GPU support.
+* [containarium](https://github.com/FootprintAI/Containarium) ⭐ 271 | 🐛 65 | 🌐 Go | 📅 2026-08-14 — Provides SSH-native isolated environments with an LXC backend, eBPF egress controls, and GPU support.
 * [bravetools](https://github.com/bravetools/bravetools) ⭐ 157 | 🐛 13 | 🌐 Go | 📅 2026-07-25 — Builds, deploys, and releases environments with system containers.
 * [vibebin](https://github.com/jgbrwn/vibebin) ⭐ 104 | 🐛 0 | 🌐 Go | 📅 2026-08-10 — Creates Incus-backed coding and hosting environments on self-hosted servers.
 * [incant](https://github.com/lnussbaum/incant) ⭐ 81 | 🐛 7 | 🌐 Python | 📅 2026-07-20 — Defines reproducible Incus development environments in YAML.
@@ -67,22 +67,22 @@
 * [ssh2incus](https://github.com/mobydeck/ssh2incus) ⭐ 63 | 🐛 4 | 🌐 Go | 📅 2026-02-16 — SSH gateway for accessing Incus instances.
 * [edi](https://github.com/lueschem/edi) ⭐ 49 | 🐛 5 | 🌐 Python | 📅 2026-04-17 — Builds reproducible embedded OS artifacts and LXD-based digital twins.
 * [lxd-compose](https://github.com/MottainaiCI/lxd-compose) ⭐ 40 | 🐛 9 | 🌐 Go | 📅 2026-08-05 — Defines and runs groups of LXD or Incus instances.
-* [incus-spawn](https://github.com/Sanne/incus-spawn) ⭐ 34 | 🐛 40 | 🌐 Java | 📅 2026-08-12 — CLI and TUI for disposable Incus development sandboxes.
+* [incus-spawn](https://github.com/Sanne/incus-spawn) ⭐ 34 | 🐛 43 | 🌐 Java | 📅 2026-08-12 — CLI and TUI for disposable Incus development sandboxes.
 * [lincubate](https://github.com/popey/lincubate) ⚠️ Archived — Runs development agents in sandboxed LXD containers.
 
 ## User Interfaces
 
-* [xpipe](https://github.com/xpipe-io/xpipe) ⭐ 14,411 | 🐛 64 | 🌐 Java | 📅 2026-08-13 — Desktop interface for discovering and accessing local or remote LXD and Incus instances.
+* [xpipe](https://github.com/xpipe-io/xpipe) ⭐ 14,415 | 🐛 64 | 🌐 Java | 📅 2026-08-14 — Desktop interface for discovering and accessing local or remote LXD and Incus instances.
 * [LxdMosaic](https://github.com/turtle0x1/LxdMosaic) ⭐ 611 | 🐛 22 | 🌐 PHP | 📅 2026-08-05 — Web interface for managing multiple LXD and Incus servers.
 * [lxconsole](https://github.com/PenningLabs/lxconsole) ⭐ 466 | 🐛 27 | 🌐 HTML | 📅 2026-01-26 — Multi-server web console supporting LXD and Incus.
 * [oneclickvirt](https://github.com/oneclickvirt/oneclickvirt) ⭐ 366 | 🐛 1 | 🌐 Go | 📅 2026-08-04 — Multi-hypervisor management panel with Incus and LXD support.
-* [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical) ⭐ 109 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-11 — Frequently rebased Incus-compatible fork of Canonical's LXD UI.
+* [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical) ⭐ 110 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-11 — Frequently rebased Incus-compatible fork of Canonical's LXD UI.
 * [ararat-web](https://github.com/hyecompany/ararat-web) ⭐ 37 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-25 — Incus-native web control plane currently in public beta.
-* [kapsule](https://github.com/KDE/kapsule) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-05-20 — Incus container management with KDE Plasma integration.
+* [kapsule](https://github.com/KDE/kapsule) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-05-20 — Incus container management with KDE Plasma integration.
 
 ## Operations
 
-* [incusAutobackup](https://github.com/rbnhln/incusAutobackup) ⭐ 7 | 🐛 11 | 🌐 Go | 📅 2026-07-31 — Replicates Incus instances and volumes between source and target hosts.
+* [incusAutobackup](https://github.com/rbnhln/incusAutobackup) ⭐ 7 | 🐛 11 | 🌐 Go | 📅 2026-08-13 — Replicates Incus instances and volumes between source and target hosts.
 * [incusbackup](https://github.com/ScottiBYTE/incusbackup) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-14 — Web-based scheduled backup and restore across multiple Incus remotes.
 * [Incus Grafana dashboard](https://grafana.com/grafana/dashboards/19727-incus/) — Dashboard for Incus server, project, and instance metrics.
 
@@ -106,12 +106,12 @@ These resources explain foundational concepts but may contain outdated commands 
 
 ### Projects
 
-* [incus](https://github.com/lxc/incus) ⭐ 5,930 | 🐛 42 | 🌐 Go | 📅 2026-08-13 — Community-led system container and virtual machine manager.
+* [incus](https://github.com/lxc/incus) ⭐ 5,935 | 🐛 44 | 🌐 Go | 📅 2026-08-14 — Community-led system container and virtual machine manager.
 * [lxc](https://github.com/lxc/lxc) ⭐ 5,239 | 🐛 148 | 🌐 C | 📅 2026-07-23 — Linux system container runtime, command-line tools, and `liblxc` library.
-* [lxd](https://github.com/canonical/lxd) ⭐ 4,810 | 🐛 419 | 🌐 Go | 📅 2026-08-12 — Canonical's system container and virtual machine manager.
-* [lxcfs](https://github.com/lxc/lxcfs) ⭐ 1,190 | 🐛 35 | 🌐 C | 📅 2026-05-15 — FUSE filesystem providing container-aware system information.
-* [incus-os](https://github.com/lxc/incus-os) ⭐ 1,072 | 🐛 69 | 🌐 Go | 📅 2026-08-13 — Immutable operating system dedicated to running Incus.
-* [microcloud](https://github.com/canonical/microcloud) ⭐ 524 | 🐛 56 | 🌐 Go | 📅 2026-08-13 — Automated private cloud built from LXD, Ceph, and OVN.
+* [lxd](https://github.com/canonical/lxd) ⭐ 4,812 | 🐛 421 | 🌐 Go | 📅 2026-08-13 — Canonical's system container and virtual machine manager.
+* [lxcfs](https://github.com/lxc/lxcfs) ⭐ 1,191 | 🐛 35 | 🌐 C | 📅 2026-05-15 — FUSE filesystem providing container-aware system information.
+* [incus-os](https://github.com/lxc/incus-os) ⭐ 1,072 | 🐛 73 | 🌐 Go | 📅 2026-08-13 — Immutable operating system dedicated to running Incus.
+* [microcloud](https://github.com/canonical/microcloud) ⭐ 526 | 🐛 55 | 🌐 Go | 📅 2026-08-14 — Automated private cloud built from LXD, Ceph, and OVN.
 * [Linux Containers](https://linuxcontainers.org/) — Home of the LXC, LXCFS, Incus, and distrobuilder projects.
 
 ### Documentation
@@ -141,7 +141,7 @@ These resources explain foundational concepts but may contain outdated commands 
 ### Images and Image Building
 
 * [distrobuilder](https://github.com/lxc/distrobuilder) ⭐ 868 | 🐛 28 | 🌐 Go | 📅 2026-07-06 — Builds LXC and Incus images from declarative YAML definitions.
-* [lxd-imagebuilder](https://github.com/canonical/lxd-imagebuilder) ⭐ 22 | 🐛 2 | 🌐 Go | 📅 2026-07-31 — Builds LXD container and VM images and Simple Streams catalogs.
+* [lxd-imagebuilder](https://github.com/canonical/lxd-imagebuilder) ⭐ 22 | 🐛 3 | 🌐 Go | 📅 2026-07-31 — Builds LXD container and VM images and Simple Streams catalogs.
 * [Linux Containers image server](https://images.linuxcontainers.org/) — Continuously built and tested images for LXC and Incus.
 * [Canonical LXD image server](https://images.lxd.canonical.com/) — Multi-distribution image catalog used by LXD's `images:` remote.
 * [distrobuilder documentation](https://linuxcontainers.org/distrobuilder/docs/latest/) — Tutorials and reference for custom LXC and Incus images.
@@ -149,13 +149,13 @@ These resources explain foundational concepts but may contain outdated commands 
 
 ### SDKs and Integrations
 
-* [lxd-ui](https://github.com/canonical/lxd-ui) ⭐ 490 | 🐛 41 | 🌐 TypeScript | 📅 2026-08-12 — Canonical's official browser interface, included with LXD.
+* [lxd-ui](https://github.com/canonical/lxd-ui) ⭐ 490 | 🐛 39 | 🌐 TypeScript | 📅 2026-08-14 — Canonical's official browser interface, included with LXD.
 * [go-lxc](https://github.com/lxc/go-lxc) ⭐ 467 | 🐛 5 | 🌐 Go | 📅 2026-03-16 — Go bindings for `liblxc`.
 * [pylxd](https://github.com/canonical/pylxd) ⭐ 277 | 🐛 46 | 🌐 Python | 📅 2026-08-12 — Official Python client for the LXD REST API.
 * [terraform-provider-incus](https://github.com/lxc/terraform-provider-incus) ⭐ 207 | 🐛 15 | 🌐 Go | 📅 2026-08-13 — Manages Incus instances, projects, profiles, networks, and storage.
 * [incus-deploy](https://github.com/lxc/incus-deploy) ⭐ 156 | 🐛 12 | 🌐 HCL | 📅 2026-05-26 — Ansible, Terraform, and scripts for deploying Incus clusters with Ceph and OVN.
 * [cluster-api-provider-incus](https://github.com/lxc/cluster-api-provider-incus) ⭐ 112 | 🐛 6 | 🌐 Go | 📅 2026-06-28 — Provisions Kubernetes clusters on Incus, LXD, and MicroCloud.
-* [python3-lxc](https://github.com/lxc/python3-lxc) ⭐ 67 | 🐛 9 | 🌐 C | 📅 2025-12-10 — Python 3 bindings for `liblxc`.
+* [python3-lxc](https://github.com/lxc/python3-lxc) ⭐ 67 | 🐛 10 | 🌐 C | 📅 2025-12-10 — Python 3 bindings for `liblxc`.
 * [incus-compose](https://github.com/lxc/incus-compose) ⭐ 51 | 🐛 13 | 🌐 Go | 📅 2026-08-13 — Runs Compose-spec workloads natively on Incus.
 * [lxd-csi-driver](https://github.com/canonical/lxd-csi-driver) ⭐ 8 | 🐛 11 | 🌐 Go | 📅 2026-08-11 — Exposes LXD storage to Kubernetes workloads.
 * [Incus Go client](https://pkg.go.dev/github.com/lxc/incus/client) — Official Go SDK shipped with Incus.
@@ -168,14 +168,14 @@ These resources explain foundational concepts but may contain outdated commands 
 * [Incus migration overview](https://linuxcontainers.org/incus/docs/main/migration/) — Server-to-server, LXC, physical machine, and virtual machine migration guides.
 * [Import machines into Incus](https://linuxcontainers.org/incus/docs/main/howto/import_machines_to_instances/) — Imports filesystems and raw, QCOW2, OVA, or VMDK images with `incus-migrate`.
 * [Migrate LXC containers to Incus](https://linuxcontainers.org/incus/docs/main/howto/migrate_from_lxc/) — Converts local LXC containers with `lxc-to-incus`.
-* [Migrate LXD to Incus](https://github.com/lxc/incus/blob/stable-7.0/doc/howto/server_migrate_lxd.md) ⭐ 5,930 | 🐛 42 | 🌐 Go | 📅 2026-08-13 — Version-pinned `lxd-to-incus` guide; check its compatibility table before migrating.
+* [Migrate LXD to Incus](https://github.com/lxc/incus/blob/stable-7.0/doc/howto/server_migrate_lxd.md) ⭐ 5,935 | 🐛 44 | 🌐 Go | 📅 2026-08-14 — Version-pinned `lxd-to-incus` guide; check its compatibility table before migrating.
 * [Migrate LXD instances](https://documentation.ubuntu.com/lxd/latest/howto/instances_migrate/) — Copies, moves, and live-migrates instances between LXD servers.
 * [Import machines into LXD](https://documentation.ubuntu.com/lxd/latest/howto/import_machines_to_instances/) — Converts physical machines and foreign VM disks with `lxd-convert`.
 
 ### Monitoring and Security
 
-* [Incus security advisories](https://github.com/lxc/incus/security) ⭐ 5,930 | 🐛 42 | 🌐 Go | 📅 2026-08-13 — Reporting policy and published advisories.
-* [LXD security advisories](https://github.com/canonical/lxd/security/advisories) ⭐ 4,810 | 🐛 419 | 🌐 Go | 📅 2026-08-12 — Canonical's published vulnerability record.
+* [Incus security advisories](https://github.com/lxc/incus/security) ⭐ 5,935 | 🐛 44 | 🌐 Go | 📅 2026-08-14 — Reporting policy and published advisories.
+* [LXD security advisories](https://github.com/canonical/lxd/security/advisories) ⭐ 4,812 | 🐛 421 | 🌐 Go | 📅 2026-08-13 — Canonical's published vulnerability record.
 * [Incus metrics](https://linuxcontainers.org/incus/docs/main/metrics/) — Exposes native Prometheus metrics for servers and instances.
 * [LXD metrics](https://documentation.ubuntu.com/lxd/latest/metrics/) — Exposes native Prometheus metrics for servers and instances.
 * [LXC security](https://linuxcontainers.org/lxc/security/) — Threat model, privileged versus unprivileged containers, and vulnerability reporting.
@@ -197,4 +197,4 @@ Contributions are welcome. Please read [the contribution guidelines](CONTRIBUTIN
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
