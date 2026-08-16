@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T14:24:03Z",
+            "last_commit": "2026-08-16T01:24:51Z",
             "owner": "zabbly",
             "repo": "incus",
             "stars": 539
@@ -186,7 +186,7 @@
             "last_commit": "2026-07-18T10:41:41Z",
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 557
+            "stars": 565
           }
         },
         {
@@ -290,7 +290,7 @@
             "last_commit": "2026-08-13T18:08:51Z",
             "owner": "abiosoft",
             "repo": "colima",
-            "stars": 30364
+            "stars": 30376
           }
         },
         {
@@ -301,10 +301,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T07:50:30Z",
+            "last_commit": "2026-08-16T04:30:38Z",
             "owner": "openclaw",
             "repo": "crabbox",
-            "stars": 1304
+            "stars": 1308
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-14T16:38:30Z",
             "owner": "mensfeld",
             "repo": "code-on-incus",
-            "stars": 652
+            "stars": 653
           }
         },
         {
@@ -357,7 +357,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T03:33:20Z",
+            "last_commit": "2026-08-16T07:37:43Z",
             "owner": "FootprintAI",
             "repo": "Containarium",
             "stars": 272
@@ -469,7 +469,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T19:12:58Z",
+            "last_commit": "2026-08-15T12:04:06Z",
             "owner": "Sanne",
             "repo": "incus-spawn",
             "stars": 34
@@ -503,10 +503,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T07:43:53Z",
+            "last_commit": "2026-08-15T15:10:52Z",
             "owner": "xpipe-io",
             "repo": "xpipe",
-            "stars": 14418
+            "stars": 14424
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2026-01-26T02:02:41Z",
             "owner": "PenningLabs",
             "repo": "lxconsole",
-            "stars": 467
+            "stars": 469
           }
         },
         {
@@ -548,7 +548,7 @@
             "last_commit": "2026-08-04T15:09:17Z",
             "owner": "oneclickvirt",
             "repo": "oneclickvirt",
-            "stars": 366
+            "stars": 367
           }
         },
         {
@@ -646,10 +646,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T02:42:40Z",
+            "last_commit": "2026-08-16T01:00:31Z",
             "owner": "lxc",
             "repo": "incus",
-            "stars": 5944
+            "stars": 5953
           }
         },
         {
@@ -677,7 +677,7 @@
             "last_commit": "2026-08-14T16:22:06Z",
             "owner": "canonical",
             "repo": "lxd",
-            "stars": 4812
+            "stars": 4813
           }
         },
         {
@@ -702,7 +702,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T03:05:01Z",
+            "last_commit": "2026-08-15T23:16:45Z",
             "owner": "lxc",
             "repo": "incus-os",
             "stars": 1074
@@ -902,10 +902,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T02:42:40Z",
+            "last_commit": "2026-08-16T01:00:31Z",
             "owner": "lxc",
             "repo": "incus",
-            "stars": 5944
+            "stars": 5953
           }
         },
         {
@@ -919,7 +919,7 @@
             "last_commit": "2026-08-14T16:22:06Z",
             "owner": "canonical",
             "repo": "lxd",
-            "stars": 4812
+            "stars": 4813
           }
         }
       ],
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:59:47.150Z",
+    "last_updated": "2026-08-16T09:00:25.612Z",
     "original_repository": "angristan/awesome-lxc-lxd",
     "original_repository_sha": "1ad75b7e86ffb037342f3285717f6baebdaf44f8",
     "enhanced_repository": "enhansome/enhansome-lxc-lxd",
