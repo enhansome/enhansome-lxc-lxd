@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 690858828,
             "language": "Python",
             "last_commit": "2026-08-16T01:24:51Z",
             "owner": "zabbly",
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109335108,
             "language": "Ruby",
-            "last_commit": "2026-08-18T03:22:45Z",
+            "last_commit": "2026-08-19T09:08:05Z",
             "owner": "vpsfreecz",
             "repo": "vpsadminos",
             "stars": 184
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 757656982,
             "language": "Dockerfile",
             "last_commit": "2026-08-10T16:31:56Z",
             "owner": "cmspam",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253277923,
             "language": "Shell",
             "last_commit": "2026-05-01T21:22:10Z",
             "owner": "ganto",
@@ -63,7 +67,7 @@
       "title": "Packages and Host Platforms"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123032127,
             "language": "Shell",
             "last_commit": "2026-03-09T23:42:15Z",
             "owner": "mikma",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 580192268,
             "language": "PowerShell",
             "last_commit": "2026-07-21T13:39:10Z",
             "owner": "antifob",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 735849173,
             "language": "Elixir",
             "last_commit": "2024-07-05T05:40:37Z",
             "owner": "upmaru",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176348567,
             "language": "Go",
             "last_commit": "2024-04-19T13:01:27Z",
             "owner": "MottainaiCI",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1122504397,
             "language": "JavaScript",
             "last_commit": "2026-08-05T02:24:21Z",
             "owner": "windsorcli",
@@ -139,7 +148,7 @@
       "title": "Images and Image Building"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134449729,
             "language": "Rust",
             "last_commit": "2026-06-22T08:58:44Z",
             "owner": "sanpii",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161708668,
             "language": "PHP",
             "last_commit": "2026-03-15T16:14:58Z",
             "owner": "turtle0x1",
@@ -173,7 +184,7 @@
       "title": "Libraries and SDKs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -182,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1013641879,
             "language": "Ruby",
             "last_commit": "2026-07-18T10:41:41Z",
             "owner": "stevius10",
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47083172,
             "language": "Go",
             "last_commit": "2026-08-10T02:51:39Z",
             "owner": "terraform-lxd",
@@ -210,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 842197070,
             "language": "Python",
             "last_commit": "2026-08-14T08:35:13Z",
             "owner": "fabriziosalmi",
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1181397465,
             "language": "Go",
             "last_commit": "2026-06-15T15:33:25Z",
             "owner": "abiosoft",
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 737086173,
             "language": "Go",
             "last_commit": "2026-01-11T11:24:40Z",
             "owner": "bketelsen",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 358037276,
             "language": "Go",
             "last_commit": "2026-05-11T04:43:30Z",
             "owner": "hashicorp",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 358037494,
             "language": "Go",
             "last_commit": "2026-05-11T02:47:05Z",
             "owner": "hashicorp",
@@ -277,7 +295,7 @@
       "title": "Infrastructure as Code and Orchestration"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -286,11 +304,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 403020531,
             "language": "Go",
             "last_commit": "2026-08-17T18:51:35Z",
             "owner": "abiosoft",
             "repo": "colima",
-            "stars": 30412
+            "stars": 30428
           }
         },
         {
@@ -300,11 +319,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1225688424,
             "language": "Go",
-            "last_commit": "2026-08-18T06:33:24Z",
+            "last_commit": "2026-08-19T08:09:16Z",
             "owner": "openclaw",
             "repo": "crabbox",
-            "stars": 1316
+            "stars": 1320
           }
         },
         {
@@ -314,11 +334,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1129585228,
             "language": "Go",
-            "last_commit": "2026-08-18T09:06:51Z",
+            "last_commit": "2026-08-19T07:34:23Z",
             "owner": "mensfeld",
             "repo": "code-on-incus",
-            "stars": 654
+            "stars": 655
           }
         },
         {
@@ -328,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488973970,
             "language": "Go",
             "last_commit": "2026-08-18T06:33:06Z",
             "owner": "cloudbase",
@@ -342,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105630895,
             "language": "Shell",
             "last_commit": "2026-05-26T18:25:48Z",
             "owner": "flesueur",
@@ -356,11 +379,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1124390254,
             "language": "Go",
-            "last_commit": "2026-08-18T09:03:11Z",
+            "last_commit": "2026-08-19T08:26:56Z",
             "owner": "FootprintAI",
             "repo": "Containarium",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -370,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 291017546,
             "language": "Go",
             "last_commit": "2026-07-25T03:59:32Z",
             "owner": "bravetools",
@@ -384,11 +409,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1133619902,
             "language": "Go",
             "last_commit": "2026-08-10T22:36:40Z",
             "owner": "jgbrwn",
             "repo": "vibebin",
-            "stars": 104
+            "stars": 105
           }
         },
         {
@@ -398,11 +424,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 932117830,
             "language": "Python",
             "last_commit": "2026-07-20T20:37:04Z",
             "owner": "lnussbaum",
             "repo": "incant",
-            "stars": 82
+            "stars": 83
           }
         },
         {
@@ -412,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 730897303,
             "language": "Shell",
             "last_commit": "2026-07-07T15:15:26Z",
             "owner": "ublue-os",
@@ -426,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 953638243,
             "language": "Go",
             "last_commit": "2026-02-16T03:29:51Z",
             "owner": "mobydeck",
@@ -440,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75374339,
             "language": "Python",
             "last_commit": "2026-04-17T07:05:55Z",
             "owner": "lueschem",
@@ -454,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273662980,
             "language": "Go",
             "last_commit": "2026-08-05T16:30:16Z",
             "owner": "MottainaiCI",
@@ -468,8 +499,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203620181,
             "language": "Java",
-            "last_commit": "2026-08-18T08:55:04Z",
+            "last_commit": "2026-08-18T14:32:52Z",
             "owner": "Sanne",
             "repo": "incus-spawn",
             "stars": 34
@@ -482,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1195923245,
             "language": "Go",
             "last_commit": "2026-07-26T10:13:18Z",
             "owner": "popey",
@@ -493,7 +526,7 @@
       "title": "Tools and Development Workflows"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -502,11 +535,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 593867048,
             "language": "Java",
-            "last_commit": "2026-08-17T10:51:59Z",
+            "last_commit": "2026-08-19T06:22:02Z",
             "owner": "xpipe-io",
             "repo": "xpipe",
-            "stars": 14426
+            "stars": 14430
           }
         },
         {
@@ -516,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163507007,
             "language": "PHP",
             "last_commit": "2026-08-05T17:41:11Z",
             "owner": "turtle0x1",
@@ -530,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 631747206,
             "language": "HTML",
             "last_commit": "2026-01-26T02:02:41Z",
             "owner": "PenningLabs",
@@ -544,8 +580,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1062346086,
             "language": "Go",
-            "last_commit": "2026-08-17T13:38:26Z",
+            "last_commit": "2026-08-19T08:53:28Z",
             "owner": "oneclickvirt",
             "repo": "oneclickvirt",
             "stars": 367
@@ -558,8 +595,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 894651553,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T13:31:16Z",
+            "last_commit": "2026-08-18T13:32:49Z",
             "owner": "zabbly",
             "repo": "incus-ui-canonical",
             "stars": 111
@@ -572,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1092698511,
             "language": "TypeScript",
             "last_commit": "2026-07-25T07:16:29Z",
             "owner": "hyecompany",
@@ -586,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1151831604,
             "language": "Python",
             "last_commit": "2026-05-20T05:07:12Z",
             "owner": "KDE",
@@ -597,7 +637,7 @@
       "title": "User Interfaces"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -606,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1159979059,
             "language": "Go",
             "last_commit": "2026-08-13T19:01:15Z",
             "owner": "rbnhln",
@@ -620,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1240182776,
             "language": "JavaScript",
             "last_commit": "2026-06-14T21:18:34Z",
             "owner": "ScottiBYTE",
@@ -631,308 +673,327 @@
       "title": "Operations"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "incus",
+              "description": "Community-led system container and virtual machine manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 669486760,
+                "language": "Go",
+                "last_commit": "2026-08-18T20:29:29Z",
+                "owner": "lxc",
+                "repo": "incus",
+                "stars": 5981
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lxc",
+              "description": "Linux system container runtime, command-line tools, and library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5720995,
+                "language": "C",
+                "last_commit": "2026-08-18T13:36:20Z",
+                "owner": "lxc",
+                "repo": "lxc",
+                "stars": 5243
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lxd",
+              "description": "Canonical's system container and virtual machine manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26192117,
+                "language": "Go",
+                "last_commit": "2026-08-19T07:38:13Z",
+                "owner": "canonical",
+                "repo": "lxd",
+                "stars": 4816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lxcfs",
+              "description": "FUSE filesystem providing container-aware system information.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27918935,
+                "language": "C",
+                "last_commit": "2026-05-15T13:16:04Z",
+                "owner": "lxc",
+                "repo": "lxcfs",
+                "stars": 1193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "incus-os",
+              "description": "Immutable operating system dedicated to running Incus.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 846177060,
+                "language": "Go",
+                "last_commit": "2026-08-19T00:06:24Z",
+                "owner": "lxc",
+                "repo": "incus-os",
+                "stars": 1078
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "microcloud",
+              "description": "Automated private cloud built from LXD, Ceph, and OVN.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 549680163,
+                "language": "Go",
+                "last_commit": "2026-08-18T12:13:16Z",
+                "owner": "canonical",
+                "repo": "microcloud",
+                "stars": 525
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "distrobuilder",
+              "description": "Builds LXC and Incus images from declarative YAML definitions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118796601,
+                "language": "Go",
+                "last_commit": "2026-07-06T13:31:24Z",
+                "owner": "lxc",
+                "repo": "distrobuilder",
+                "stars": 868
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lxd-imagebuilder",
+              "description": "Builds LXD container and VM images and Simple Streams catalogs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 748250818,
+                "language": "Go",
+                "last_commit": "2026-08-19T02:03:52Z",
+                "owner": "canonical",
+                "repo": "lxd-imagebuilder",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Images and Image Building"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lxd-ui",
+              "description": "Canonical's official browser interface, included with LXD.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 549643808,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T09:38:33Z",
+                "owner": "canonical",
+                "repo": "lxd-ui",
+                "stars": 491
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-lxc",
+              "description": "Go bindings for .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16966971,
+                "language": "Go",
+                "last_commit": "2026-03-16T18:00:12Z",
+                "owner": "lxc",
+                "repo": "go-lxc",
+                "stars": 467
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pylxd",
+              "description": "Official Python client for the LXD REST API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36316984,
+                "language": "Python",
+                "last_commit": "2026-08-18T15:09:48Z",
+                "owner": "canonical",
+                "repo": "pylxd",
+                "stars": 277
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "terraform-provider-incus",
+              "description": "Manages Incus instances, projects, profiles, networks, and storage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732061332,
+                "language": "Go",
+                "last_commit": "2026-08-18T16:20:39Z",
+                "owner": "lxc",
+                "repo": "terraform-provider-incus",
+                "stars": 208
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "incus-deploy",
+              "description": "Ansible, Terraform, and scripts for deploying Incus clusters with Ceph and OVN.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 757833259,
+                "language": "HCL",
+                "last_commit": "2026-05-26T12:18:53Z",
+                "owner": "lxc",
+                "repo": "incus-deploy",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cluster-api-provider-incus",
+              "description": "Provisions Kubernetes clusters on Incus, LXD, and MicroCloud.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 909816595,
+                "language": "Go",
+                "last_commit": "2026-06-28T12:52:31Z",
+                "owner": "lxc",
+                "repo": "cluster-api-provider-incus",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "python3-lxc",
+              "description": "Python 3 bindings for .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118796103,
+                "language": "C",
+                "last_commit": "2025-12-10T15:51:12Z",
+                "owner": "lxc",
+                "repo": "python3-lxc",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "incus-compose",
+              "description": "Runs Compose-spec workloads natively on Incus.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1271655038,
+                "language": "Go",
+                "last_commit": "2026-08-18T17:08:56Z",
+                "owner": "lxc",
+                "repo": "incus-compose",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lxd-csi-driver",
+              "description": "Exposes LXD storage to Kubernetes workloads.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1001397741,
+                "language": "Go",
+                "last_commit": "2026-08-19T09:07:49Z",
+                "owner": "canonical",
+                "repo": "lxd-csi-driver",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SDKs and Integrations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Incus security advisories",
+              "description": "Reporting policy and published advisories.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 669486760,
+                "language": "Go",
+                "last_commit": "2026-08-18T20:29:29Z",
+                "owner": "lxc",
+                "repo": "incus",
+                "stars": 5981
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LXD security advisories",
+              "description": "Canonical's published vulnerability record.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26192117,
+                "language": "Go",
+                "last_commit": "2026-08-19T07:38:13Z",
+                "owner": "canonical",
+                "repo": "lxd",
+                "stars": 4816
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monitoring and Security"
+        }
+      ],
       "title": "Official Resources"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "incus",
-          "description": "Community-led system container and virtual machine manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T07:52:00Z",
-            "owner": "lxc",
-            "repo": "incus",
-            "stars": 5975
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lxc",
-          "description": "Linux system container runtime, command-line tools, and library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-23T12:48:58Z",
-            "owner": "lxc",
-            "repo": "lxc",
-            "stars": 5243
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lxd",
-          "description": "Canonical's system container and virtual machine manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T08:54:30Z",
-            "owner": "canonical",
-            "repo": "lxd",
-            "stars": 4816
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lxcfs",
-          "description": "FUSE filesystem providing container-aware system information.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-15T13:16:04Z",
-            "owner": "lxc",
-            "repo": "lxcfs",
-            "stars": 1193
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "incus-os",
-          "description": "Immutable operating system dedicated to running Incus.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-16T23:07:10Z",
-            "owner": "lxc",
-            "repo": "incus-os",
-            "stars": 1078
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "microcloud",
-          "description": "Automated private cloud built from LXD, Ceph, and OVN.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T06:56:43Z",
-            "owner": "canonical",
-            "repo": "microcloud",
-            "stars": 525
-          }
-        }
-      ],
-      "title": "Projects"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "distrobuilder",
-          "description": "Builds LXC and Incus images from declarative YAML definitions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-06T13:31:24Z",
-            "owner": "lxc",
-            "repo": "distrobuilder",
-            "stars": 868
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lxd-imagebuilder",
-          "description": "Builds LXD container and VM images and Simple Streams catalogs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-31T20:26:42Z",
-            "owner": "canonical",
-            "repo": "lxd-imagebuilder",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "Images and Image Building"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lxd-ui",
-          "description": "Canonical's official browser interface, included with LXD.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T08:09:16Z",
-            "owner": "canonical",
-            "repo": "lxd-ui",
-            "stars": 490
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-lxc",
-          "description": "Go bindings for .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-16T18:00:12Z",
-            "owner": "lxc",
-            "repo": "go-lxc",
-            "stars": 467
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pylxd",
-          "description": "Official Python client for the LXD REST API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T13:29:05Z",
-            "owner": "canonical",
-            "repo": "pylxd",
-            "stars": 277
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "terraform-provider-incus",
-          "description": "Manages Incus instances, projects, profiles, networks, and storage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T17:40:28Z",
-            "owner": "lxc",
-            "repo": "terraform-provider-incus",
-            "stars": 208
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "incus-deploy",
-          "description": "Ansible, Terraform, and scripts for deploying Incus clusters with Ceph and OVN.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HCL",
-            "last_commit": "2026-05-26T12:18:53Z",
-            "owner": "lxc",
-            "repo": "incus-deploy",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cluster-api-provider-incus",
-          "description": "Provisions Kubernetes clusters on Incus, LXD, and MicroCloud.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-28T12:52:31Z",
-            "owner": "lxc",
-            "repo": "cluster-api-provider-incus",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "python3-lxc",
-          "description": "Python 3 bindings for .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-12-10T15:51:12Z",
-            "owner": "lxc",
-            "repo": "python3-lxc",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "incus-compose",
-          "description": "Runs Compose-spec workloads natively on Incus.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T02:08:17Z",
-            "owner": "lxc",
-            "repo": "incus-compose",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lxd-csi-driver",
-          "description": "Exposes LXD storage to Kubernetes workloads.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T05:33:40Z",
-            "owner": "canonical",
-            "repo": "lxd-csi-driver",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "SDKs and Integrations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Incus security advisories",
-          "description": "Reporting policy and published advisories.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T07:52:00Z",
-            "owner": "lxc",
-            "repo": "incus",
-            "stars": 5975
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LXD security advisories",
-          "description": "Canonical's published vulnerability record.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T08:54:30Z",
-            "owner": "canonical",
-            "repo": "lxd",
-            "stars": 4816
-          }
-        }
-      ],
-      "title": "Monitoring and Security"
-    },
-    {
-      "description": "Contributions are welcome. Please read the contribution guidelines before opening a pull request.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:06:52.081Z",
+    "last_updated": "2026-08-19T09:08:42.449Z",
     "original_repository": "angristan/awesome-lxc-lxd",
     "original_repository_sha": "1ad75b7e86ffb037342f3285717f6baebdaf44f8",
     "enhanced_repository": "enhansome/enhansome-lxc-lxd",
