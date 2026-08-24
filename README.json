@@ -309,7 +309,7 @@
             "last_commit": "2026-08-17T18:51:35Z",
             "owner": "abiosoft",
             "repo": "colima",
-            "stars": 30490
+            "stars": 30495
           }
         },
         {
@@ -321,7 +321,7 @@
             "archived": false,
             "id": 1225688424,
             "language": "Go",
-            "last_commit": "2026-08-24T09:24:36Z",
+            "last_commit": "2026-08-24T14:28:57Z",
             "owner": "openclaw",
             "repo": "crabbox",
             "stars": 1331
@@ -336,7 +336,7 @@
             "archived": false,
             "id": 1129585228,
             "language": "Go",
-            "last_commit": "2026-08-19T12:46:08Z",
+            "last_commit": "2026-08-24T14:48:05Z",
             "owner": "mensfeld",
             "repo": "code-on-incus",
             "stars": 664
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-24T06:34:30Z",
             "owner": "cloudbase",
             "repo": "garm",
-            "stars": 383
+            "stars": 384
           }
         },
         {
@@ -381,7 +381,7 @@
             "archived": false,
             "id": 1124390254,
             "language": "Go",
-            "last_commit": "2026-08-24T04:55:14Z",
+            "last_commit": "2026-08-24T11:25:46Z",
             "owner": "FootprintAI",
             "repo": "Containarium",
             "stars": 274
@@ -537,7 +537,7 @@
             "archived": false,
             "id": 593867048,
             "language": "Java",
-            "last_commit": "2026-08-23T18:36:10Z",
+            "last_commit": "2026-08-24T13:18:49Z",
             "owner": "xpipe-io",
             "repo": "xpipe",
             "stars": 14456
@@ -627,7 +627,7 @@
             "archived": false,
             "id": 1151831604,
             "language": "Python",
-            "last_commit": "2026-08-22T23:34:18Z",
+            "last_commit": "2026-08-24T14:38:27Z",
             "owner": "KDE",
             "repo": "kapsule",
             "stars": 22
@@ -686,7 +686,7 @@
                 "archived": false,
                 "id": 669486760,
                 "language": "Go",
-                "last_commit": "2026-08-24T00:41:50Z",
+                "last_commit": "2026-08-24T13:20:20Z",
                 "owner": "lxc",
                 "repo": "incus",
                 "stars": 6009
@@ -716,10 +716,10 @@
                 "archived": false,
                 "id": 26192117,
                 "language": "Go",
-                "last_commit": "2026-08-24T08:26:06Z",
+                "last_commit": "2026-08-24T13:47:54Z",
                 "owner": "canonical",
                 "repo": "lxd",
-                "stars": 4816
+                "stars": 4815
               }
             },
             {
@@ -761,7 +761,7 @@
                 "archived": false,
                 "id": 549680163,
                 "language": "Go",
-                "last_commit": "2026-08-24T09:01:52Z",
+                "last_commit": "2026-08-24T12:53:00Z",
                 "owner": "canonical",
                 "repo": "microcloud",
                 "stars": 526
@@ -820,10 +820,10 @@
                 "archived": false,
                 "id": 549643808,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T09:15:46Z",
+                "last_commit": "2026-08-24T09:35:09Z",
                 "owner": "canonical",
                 "repo": "lxd-ui",
-                "stars": 491
+                "stars": 492
               }
             },
             {
@@ -955,6 +955,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Migrate LXD to Incus",
+              "description": "Version-pinned guide; check its compatibility table before migrating.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 669486760,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:20:20Z",
+                "owner": "lxc",
+                "repo": "incus",
+                "stars": 6009
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Backup and Migration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Incus security advisories",
               "description": "Reporting policy and published advisories.",
               "children": [],
@@ -962,7 +984,7 @@
                 "archived": false,
                 "id": 669486760,
                 "language": "Go",
-                "last_commit": "2026-08-24T00:41:50Z",
+                "last_commit": "2026-08-24T13:20:20Z",
                 "owner": "lxc",
                 "repo": "incus",
                 "stars": 6009
@@ -977,10 +999,10 @@
                 "archived": false,
                 "id": 26192117,
                 "language": "Go",
-                "last_commit": "2026-08-24T08:26:06Z",
+                "last_commit": "2026-08-24T13:47:54Z",
                 "owner": "canonical",
                 "repo": "lxd",
-                "stars": 4816
+                "stars": 4815
               }
             }
           ],
@@ -993,7 +1015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:28:01.924Z",
+    "last_updated": "2026-08-24T14:48:19.464Z",
     "original_repository": "angristan/awesome-lxc-lxd",
     "original_repository_id": 172746671,
     "original_repository_sha": "1ad75b7e86ffb037342f3285717f6baebdaf44f8",
