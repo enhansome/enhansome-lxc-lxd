@@ -27,7 +27,7 @@
             "archived": false,
             "id": 109335108,
             "language": "Ruby",
-            "last_commit": "2026-08-24T06:58:10Z",
+            "last_commit": "2026-08-25T05:17:48Z",
             "owner": "vpsfreecz",
             "repo": "vpsadminos",
             "stars": 184
@@ -306,10 +306,10 @@
             "archived": false,
             "id": 403020531,
             "language": "Go",
-            "last_commit": "2026-08-17T18:51:35Z",
+            "last_commit": "2026-08-24T17:22:38Z",
             "owner": "abiosoft",
             "repo": "colima",
-            "stars": 30495
+            "stars": 30500
           }
         },
         {
@@ -321,10 +321,10 @@
             "archived": false,
             "id": 1225688424,
             "language": "Go",
-            "last_commit": "2026-08-24T14:28:57Z",
+            "last_commit": "2026-08-25T06:26:13Z",
             "owner": "openclaw",
             "repo": "crabbox",
-            "stars": 1331
+            "stars": 1330
           }
         },
         {
@@ -336,7 +336,7 @@
             "archived": false,
             "id": 1129585228,
             "language": "Go",
-            "last_commit": "2026-08-24T14:48:05Z",
+            "last_commit": "2026-08-24T19:21:39Z",
             "owner": "mensfeld",
             "repo": "code-on-incus",
             "stars": 664
@@ -351,7 +351,7 @@
             "archived": false,
             "id": 488973970,
             "language": "Go",
-            "last_commit": "2026-08-24T06:34:30Z",
+            "last_commit": "2026-08-25T06:34:04Z",
             "owner": "cloudbase",
             "repo": "garm",
             "stars": 384
@@ -381,10 +381,10 @@
             "archived": false,
             "id": 1124390254,
             "language": "Go",
-            "last_commit": "2026-08-24T11:25:46Z",
+            "last_commit": "2026-08-25T06:36:40Z",
             "owner": "FootprintAI",
             "repo": "Containarium",
-            "stars": 274
+            "stars": 275
           }
         },
         {
@@ -537,10 +537,10 @@
             "archived": false,
             "id": 593867048,
             "language": "Java",
-            "last_commit": "2026-08-24T13:18:49Z",
+            "last_commit": "2026-08-24T19:27:06Z",
             "owner": "xpipe-io",
             "repo": "xpipe",
-            "stars": 14456
+            "stars": 14459
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-08-23T17:02:18Z",
             "owner": "zabbly",
             "repo": "incus-ui-canonical",
-            "stars": 112
+            "stars": 114
           }
         },
         {
@@ -686,10 +686,10 @@
                 "archived": false,
                 "id": 669486760,
                 "language": "Go",
-                "last_commit": "2026-08-24T13:20:20Z",
+                "last_commit": "2026-08-24T20:33:01Z",
                 "owner": "lxc",
                 "repo": "incus",
-                "stars": 6009
+                "stars": 6011
               }
             },
             {
@@ -746,10 +746,10 @@
                 "archived": false,
                 "id": 846177060,
                 "language": "Go",
-                "last_commit": "2026-08-22T23:27:18Z",
+                "last_commit": "2026-08-24T23:59:50Z",
                 "owner": "lxc",
                 "repo": "incus-os",
-                "stars": 1082
+                "stars": 1081
               }
             },
             {
@@ -761,10 +761,10 @@
                 "archived": false,
                 "id": 549680163,
                 "language": "Go",
-                "last_commit": "2026-08-24T12:53:00Z",
+                "last_commit": "2026-08-24T15:45:52Z",
                 "owner": "canonical",
                 "repo": "microcloud",
-                "stars": 526
+                "stars": 529
               }
             }
           ],
@@ -823,7 +823,7 @@
                 "last_commit": "2026-08-24T09:35:09Z",
                 "owner": "canonical",
                 "repo": "lxd-ui",
-                "stars": 492
+                "stars": 493
               }
             },
             {
@@ -865,10 +865,10 @@
                 "archived": false,
                 "id": 732061332,
                 "language": "Go",
-                "last_commit": "2026-08-24T00:42:23Z",
+                "last_commit": "2026-08-24T15:10:46Z",
                 "owner": "lxc",
                 "repo": "terraform-provider-incus",
-                "stars": 209
+                "stars": 210
               }
             },
             {
@@ -940,7 +940,7 @@
                 "archived": false,
                 "id": 1001397741,
                 "language": "Go",
-                "last_commit": "2026-08-19T09:22:02Z",
+                "last_commit": "2026-08-25T05:37:05Z",
                 "owner": "canonical",
                 "repo": "lxd-csi-driver",
                 "stars": 8
@@ -962,10 +962,10 @@
                 "archived": false,
                 "id": 669486760,
                 "language": "Go",
-                "last_commit": "2026-08-24T13:20:20Z",
+                "last_commit": "2026-08-24T20:33:01Z",
                 "owner": "lxc",
                 "repo": "incus",
-                "stars": 6009
+                "stars": 6011
               }
             }
           ],
@@ -984,10 +984,10 @@
                 "archived": false,
                 "id": 669486760,
                 "language": "Go",
-                "last_commit": "2026-08-24T13:20:20Z",
+                "last_commit": "2026-08-24T20:33:01Z",
                 "owner": "lxc",
                 "repo": "incus",
-                "stars": 6009
+                "stars": 6011
               }
             },
             {
@@ -1015,7 +1015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:19.464Z",
+    "last_updated": "2026-08-25T06:38:39.576Z",
     "original_repository": "angristan/awesome-lxc-lxd",
     "original_repository_id": 172746671,
     "original_repository_sha": "1ad75b7e86ffb037342f3285717f6baebdaf44f8",
