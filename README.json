@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Incus package repository",
+            "homepage": null,
             "id": 690858828,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:20:39Z",
+            "open_issues": 6,
             "owner": "zabbly",
             "repo": "incus",
-            "stars": 544
+            "stars": 544,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -26,12 +31,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Host for Linux system containers based on NixOS, ZFS and LXC",
+            "homepage": "https://vpsadminos.org",
             "id": 109335108,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:30:25Z",
+            "open_issues": 6,
             "owner": "vpsfreecz",
             "repo": "vpsadminos",
-            "stars": 184
+            "stars": 184,
+            "topics": [
+              "containers",
+              "linux",
+              "lxc",
+              "nix",
+              "nixos",
+              "zfs"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -42,12 +59,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A project to run incus in docker/podman",
+            "homepage": null,
             "id": 757656982,
             "language": "Dockerfile",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T16:31:56Z",
+            "open_issues": 1,
             "owner": "cmspam",
             "repo": "incus-docker",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -58,12 +80,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RPM spec files for building the latest stable lxc/lxd/incus releases on Fedora COPR ",
+            "homepage": null,
             "id": 253277923,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-05-01T21:22:10Z",
+            "open_issues": 5,
             "owner": "ganto",
             "repo": "copr-lxc4",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "copr",
+              "fedora-repository",
+              "lxc",
+              "lxd",
+              "rpm-spec"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         }
@@ -80,12 +113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scripts for building LXD images from OpenWrt rootfs tarballs.",
+            "homepage": null,
             "id": 123032127,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-03-09T23:42:15Z",
+            "open_issues": 5,
             "owner": "mikma",
             "repo": "lxd-openwrt",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -96,12 +134,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toolset for creating Windows images for Incus",
+            "homepage": null,
             "id": 580192268,
             "language": "PowerShell",
+            "license": null,
             "last_commit": "2026-07-21T13:39:10Z",
+            "open_issues": 2,
             "owner": "antifob",
             "repo": "incus-windows",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "incus",
+              "lxd",
+              "virtual-machine",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -112,12 +160,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":penguin: LXD / Incus image server hosting based on simplestreams protocol.",
+            "homepage": null,
             "id": 735849173,
             "language": "Elixir",
+            "license": "AGPL-3.0",
             "last_commit": "2024-07-05T05:40:37Z",
+            "open_issues": 0,
             "owner": "upmaru",
             "repo": "polar",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "container-image",
+              "distrobuilder",
+              "incus",
+              "lxd"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -128,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LXC/LXD/Incus Simplestreams Tree Builder",
+            "homepage": null,
             "id": 176348567,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-04-19T13:01:27Z",
+            "open_issues": 0,
             "owner": "MottainaiCI",
             "repo": "simplestreams-builder",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -144,12 +207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Talos Linux releases packaged for Incus",
+            "homepage": null,
             "id": 1122504397,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-19T12:07:05Z",
+            "open_issues": 2,
             "owner": "windsorcli",
             "repo": "talos-incus",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         }
@@ -166,12 +234,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux Containers API for rustaceans",
+            "homepage": null,
             "id": 134449729,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-06-22T08:58:44Z",
+            "open_issues": 8,
             "owner": "sanpii",
             "repo": "lxc-rs",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "lxc",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -182,12 +258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PHP library for interacting with the LXD REST API",
+            "homepage": null,
             "id": 161708668,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-03-15T16:14:58Z",
+            "open_issues": 5,
             "owner": "turtle0x1",
             "repo": "php-lxd",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         }
@@ -204,12 +285,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IaC Automation Framework for Linux Containers (LXC) on Proxmox VE.",
+            "homepage": "http://demo.gitops.pm",
             "id": 1013641879,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-18T10:41:41Z",
+            "open_issues": 1,
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 580
+            "stars": 580,
+            "topics": [
+              "automation",
+              "container",
+              "devops",
+              "gitops",
+              "iac",
+              "lxc",
+              "proxmox",
+              "pve"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -220,12 +315,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LXD Resource provider for Terraform",
+            "homepage": "https://registry.terraform.io/providers/terraform-lxd/lxd/latest/docs",
             "id": 47083172,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T19:54:07Z",
+            "open_issues": 11,
             "owner": "terraform-lxd",
             "repo": "terraform-provider-lxd",
-            "stars": 273
+            "stars": 273,
+            "topics": [
+              "lxd",
+              "terraform",
+              "terraform-provider"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -236,12 +340,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically scale LXC containers resources on Proxmox hosts",
+            "homepage": "https://fabriziosalmi.github.io/proxmox-lxc-autoscale/",
             "id": 842197070,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T13:08:49Z",
+            "open_issues": 18,
             "owner": "fabriziosalmi",
             "repo": "proxmox-lxc-autoscale",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "autoscaler",
+              "autoscaling",
+              "autoscaling-groups",
+              "containers",
+              "lxc",
+              "lxc-containers",
+              "proxmox",
+              "proxmox-infrastructure",
+              "proxmox-tools",
+              "scalability"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -252,12 +372,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative configuration management for Incus",
+            "homepage": "https://incus-apply.abiosoft.com",
             "id": 1181397465,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-15T15:33:25Z",
+            "open_issues": 4,
             "owner": "abiosoft",
             "repo": "incus-apply",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "configuration-management",
+              "incus"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -268,12 +396,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Packer plugin for Incus Builder",
+            "homepage": "https://developer.hashicorp.com/packer/integrations/bketelsen/incus",
             "id": 737086173,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-01-11T11:24:40Z",
+            "open_issues": 0,
             "owner": "bketelsen",
             "repo": "packer-plugin-incus",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "incus",
+              "packer"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -284,12 +420,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Packer plugin for LXD Builder",
+            "homepage": "https://www.packer.io/docs/builders/lxd",
             "id": 358037276,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-05-11T04:43:30Z",
+            "open_issues": 10,
             "owner": "hashicorp",
             "repo": "packer-plugin-lxd",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "linux-containers",
+              "lxd",
+              "packer",
+              "packer-plugin"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -300,12 +446,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Packer plugin for LXC Builder",
+            "homepage": "https://www.packer.io/docs/builders/lxc",
             "id": 358037494,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-05-11T02:47:05Z",
+            "open_issues": 9,
             "owner": "hashicorp",
             "repo": "packer-plugin-lxc",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "linux-containers",
+              "lxc",
+              "packer",
+              "packer-plugin"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         }
@@ -322,12 +478,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Container runtimes on macOS (and Linux) with minimal setup",
+            "homepage": "https://colima.run",
             "id": 403020531,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T17:22:38Z",
+            "open_issues": 390,
             "owner": "abiosoft",
             "repo": "colima",
-            "stars": 30556
+            "stars": 30557,
+            "topics": [
+              "containerd",
+              "containerd-compose",
+              "containers",
+              "docker",
+              "docker-compose",
+              "incus",
+              "k3s",
+              "k8s",
+              "kubernetes",
+              "lima",
+              "macos",
+              "nerdctl"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -338,12 +512,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crabbox: warm a box, sync the diff, run the suite.",
+            "homepage": "http://crabbox.sh",
             "id": 1225688424,
             "language": "Go",
-            "last_commit": "2026-08-28T20:19:34Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:38:39Z",
+            "open_issues": 37,
             "owner": "openclaw",
             "repo": "crabbox",
-            "stars": 1337
+            "stars": 1339,
+            "topics": [
+              "agent-skills",
+              "herdr-plugin",
+              "remote-test-runner"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -354,12 +537,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Give each AI agent its own isolated machine with root, Docker, and systemd. Active defense detects and stops threats automatically.",
+            "homepage": null,
             "id": 1129585228,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:13:16Z",
+            "open_issues": 26,
             "owner": "mensfeld",
             "repo": "code-on-incus",
-            "stars": 672
+            "stars": 674,
+            "topics": [
+              "agentic-ai",
+              "ai-tools",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "code-sandbox",
+              "codex",
+              "coding-assistant",
+              "container-security",
+              "containers",
+              "developer-tools",
+              "incus",
+              "llm-security",
+              "llm-tools",
+              "lxc",
+              "opencode",
+              "opencode-ai",
+              "sandbox",
+              "sandboxing-tool",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -370,12 +579,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners with pluggable providers",
+            "homepage": null,
             "id": 488973970,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T06:34:04Z",
+            "open_issues": 29,
             "owner": "cloudbase",
             "repo": "garm",
-            "stars": 385
+            "stars": 387,
+            "topics": [
+              "actions-runner",
+              "autoscaler",
+              "autoscaling",
+              "aws",
+              "azure",
+              "cicd",
+              "ec2",
+              "ephemeral-runners",
+              "gcp",
+              "gitea",
+              "github",
+              "github-actions",
+              "github-actions-runner",
+              "incus",
+              "lxd",
+              "multi-cloud",
+              "openstack",
+              "runner",
+              "self-hosted-runner"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -386,12 +620,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mini-Internet using LXC for practical works",
+            "homepage": null,
             "id": 105630895,
             "language": "Shell",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-26T18:25:48Z",
+            "open_issues": 15,
             "owner": "flesueur",
             "repo": "mi-lxc",
-            "stars": 346
+            "stars": 346,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -402,12 +641,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source agent runtime — SSH-native isolation, eBPF egress policy, Kubernetes + LXC backends, GPU passthrough, MCP-native CLI",
+            "homepage": "https://containarium.dev",
             "id": 1124390254,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T14:29:56Z",
+            "open_issues": 88,
             "owner": "FootprintAI",
             "repo": "Containarium",
-            "stars": 275
+            "stars": 275,
+            "topics": [
+              "agent-native",
+              "agent-runtime",
+              "agent-sandbox",
+              "agentic-ai",
+              "ai-agents",
+              "claude",
+              "code-sandbox",
+              "cursor",
+              "ebpf",
+              "gpu",
+              "kubernetes",
+              "llm",
+              "lxc",
+              "mcp",
+              "model-context-protocol",
+              "multi-tenant",
+              "sandbox",
+              "self-hosted",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -418,12 +682,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to build, deploy, and release any environment using System Containers.",
+            "homepage": "https://bravetools.github.io/bravetools/",
             "id": 291017546,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-25T03:59:32Z",
+            "open_issues": 13,
             "owner": "bravetools",
             "repo": "bravetools",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "containers",
+              "devops",
+              "lxc-containers",
+              "lxc-lxd"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -434,12 +708,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vibebin: code and host inside Incus containers on your own VPS/server.",
+            "homepage": null,
             "id": 1133619902,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T22:36:40Z",
+            "open_issues": 0,
             "owner": "jgbrwn",
             "repo": "vibebin",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "ai-coding",
+              "caddyserver",
+              "cloud",
+              "coding-assistant",
+              "containers",
+              "dev-environment",
+              "golang",
+              "incus",
+              "lxc",
+              "nano-gpt",
+              "nanocode",
+              "opencode",
+              "sandbox",
+              "self-hosted",
+              "shelley",
+              "terminal-ui",
+              "tui",
+              "vibe-coding",
+              "vps",
+              "web-agent"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -450,12 +750,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Incus frontend to describe and provision development environments",
+            "homepage": null,
             "id": 932117830,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-20T20:37:04Z",
+            "open_issues": 8,
             "owner": "lnussbaum",
             "repo": "incant",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "development-environment",
+              "incus",
+              "orchestration"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -466,12 +775,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rapid Development Environments With Incus",
+            "homepage": "https://blincus.dev",
             "id": 730897303,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-07T15:15:26Z",
+            "open_issues": 8,
             "owner": "ublue-os",
             "repo": "blincus",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "containers",
+              "development",
+              "incus"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -482,12 +800,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSH server for Incus instances",
+            "homepage": "https://ssh2incus.com",
             "id": 953638243,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-16T03:29:51Z",
+            "open_issues": 5,
             "owner": "mobydeck",
             "repo": "ssh2incus",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "ansible",
+              "colima",
+              "golang",
+              "incus",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -498,12 +827,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embedded development infrastructure.",
+            "homepage": "https://www.get-edi.io",
             "id": 75374339,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-04-17T07:05:55Z",
+            "open_issues": 5,
             "owner": "lueschem",
             "repo": "edi",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "ansible",
+              "debian",
+              "embedded",
+              "image",
+              "iot",
+              "jinja2",
+              "lxc",
+              "lxd",
+              "python",
+              "python3",
+              "raspberry-pi",
+              "ubuntu",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -514,12 +862,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LXD Compose",
+            "homepage": "https://mottainaici.github.io/lxd-compose-docs/",
             "id": 273662980,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-05T16:30:16Z",
+            "open_issues": 9,
             "owner": "MottainaiCI",
             "repo": "lxd-compose",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "incus",
+              "lxd",
+              "lxd-compose"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -530,12 +887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI and TUI wrapper to manage sandboxing containers for agentic development",
+            "homepage": null,
             "id": 1203620181,
             "language": "Java",
-            "last_commit": "2026-08-28T20:13:19Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:11:26Z",
+            "open_issues": 45,
             "owner": "Sanne",
             "repo": "incus-spawn",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -546,12 +908,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Run AI coding agents in sandboxed LXD containers",
+            "homepage": null,
             "id": 1195923245,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-26T10:13:18Z",
+            "open_issues": 3,
             "owner": "popey",
             "repo": "lincubate",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "ai",
+              "cli",
+              "containers",
+              "lxd",
+              "sandbox"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         }
@@ -568,12 +941,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Access your entire server infrastructure from your local desktop",
+            "homepage": "https://xpipe.io",
             "id": 593867048,
             "language": "Java",
-            "last_commit": "2026-08-28T19:58:15Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:41:46Z",
+            "open_issues": 67,
             "owner": "xpipe-io",
             "repo": "xpipe",
-            "stars": 14464
+            "stars": 14465,
+            "topics": [
+              "bash",
+              "docker",
+              "filemanager",
+              "files",
+              "incus",
+              "java",
+              "javafx",
+              "k8s",
+              "kubernetes",
+              "lxd",
+              "networking",
+              "podman",
+              "sftp",
+              "ssh",
+              "tailscale",
+              "wsl"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -584,12 +979,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web interface to manage multiple instance of lxd/incus",
+            "homepage": "http://lxdmosaic.com",
             "id": 163507007,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-21T17:40:25Z",
+            "open_issues": 20,
             "owner": "turtle0x1",
             "repo": "LxdMosaic",
-            "stars": 611
+            "stars": 611,
+            "topics": [
+              "containers",
+              "deployment-automation",
+              "gui",
+              "linux",
+              "lxc",
+              "lxd",
+              "php",
+              "virtual-machines"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -600,12 +1009,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LXD Graphical Web Console",
+            "homepage": null,
             "id": 631747206,
             "language": "HTML",
+            "license": "AGPL-3.0",
             "last_commit": "2026-01-26T02:02:41Z",
+            "open_issues": 27,
             "owner": "PenningLabs",
             "repo": "lxconsole",
-            "stars": 469
+            "stars": 469,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -616,12 +1030,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal Virtualization Management Platform   可扩展的通用虚拟化管理平台，支持 Proxmox VE / LXD (GPU) / Incus (GPU) / Docker / Podman / Containerd / Qemu / Kubevirt",
+            "homepage": "https://t.me/oneclickvirt",
             "id": 1062346086,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T06:36:39Z",
+            "open_issues": 1,
             "owner": "oneclickvirt",
             "repo": "oneclickvirt",
-            "stars": 366
+            "stars": 366,
+            "topics": [
+              "containerd",
+              "docker",
+              "domain",
+              "gpu",
+              "i18n",
+              "incus",
+              "iptables",
+              "kubevirt",
+              "kyc",
+              "linux-do",
+              "lxd",
+              "nat",
+              "npu",
+              "oauth2",
+              "pmacct",
+              "podman",
+              "proxmox",
+              "proxmoxve",
+              "qemu"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -632,12 +1071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fork of canonical/lxd-ui for use with Incus (gets rebased frequently)",
+            "homepage": null,
             "id": 894651553,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T13:58:35Z",
+            "open_issues": 5,
             "owner": "zabbly",
             "repo": "incus-ui-canonical",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -648,12 +1092,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Take your infrastructure to its peak",
+            "homepage": null,
             "id": 1092698511,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-25T07:16:29Z",
+            "open_issues": 19,
             "owner": "hyecompany",
             "repo": "ararat-web",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "container",
+              "incus",
+              "kvm",
+              "lxc",
+              "oci",
+              "private-cloud",
+              "virtual-machine"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -664,12 +1121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Incus-based container management with native KDE/Plasma integration",
+            "homepage": "https://invent.kde.org/kde-linux/kapsule",
             "id": 1151831604,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-28T08:25:22Z",
+            "open_issues": 0,
             "owner": "KDE",
             "repo": "kapsule",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         }
@@ -686,12 +1148,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IncusAutobackup is a stateless backup tool for two Incus(OS) hosts in a source → target setup. It creates snapshots on the source and replicates instances and custom volumes to the target. Old IAB-managed snapshots are pruned based on a configurable retention policy.",
+            "homepage": null,
             "id": 1159979059,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T00:00:47Z",
+            "open_issues": 13,
             "owner": "rbnhln",
             "repo": "incusAutobackup",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "backup-tool",
+              "backup-utility",
+              "golang",
+              "incus",
+              "incus-os"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         },
@@ -702,12 +1175,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ScottiBYTE Incus Backup is a centralized backup and restore platform for Incus containers and virtual machines across every remote available to an Incus client.",
+            "homepage": null,
             "id": 1240182776,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-14T21:18:34Z",
+            "open_issues": 1,
             "owner": "ScottiBYTE",
             "repo": "incusbackup",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "backup",
+              "homelab",
+              "incus",
+              "scottibyte"
+            ]
           },
           "first_seen": "2026-08-28T20:21:11.615Z"
         }
@@ -726,12 +1209,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful system container and virtual machine manager ",
+                "homepage": "https://linuxcontainers.org/incus",
                 "id": 669486760,
                 "language": "Go",
-                "last_commit": "2026-08-28T13:17:28Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:25:53Z",
+                "open_issues": 36,
                 "owner": "lxc",
                 "repo": "incus",
-                "stars": 6047
+                "stars": 6065,
+                "topics": [
+                  "cloud",
+                  "containers",
+                  "hacktoberfest",
+                  "virtual-machines"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             },
@@ -742,12 +1235,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LXC - Linux Containers",
+                "homepage": "https://linuxcontainers.org/lxc",
                 "id": 5720995,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T13:56:40Z",
+                "open_issues": 151,
                 "owner": "lxc",
                 "repo": "lxc",
-                "stars": 5248
+                "stars": 5248,
+                "topics": [
+                  "c",
+                  "containers",
+                  "hacktoberfest",
+                  "lxc"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             },
@@ -758,12 +1261,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful system container and virtual machine manager",
+                "homepage": "https://canonical.com/lxd",
                 "id": 26192117,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T15:54:47Z",
+                "open_issues": 420,
                 "owner": "canonical",
                 "repo": "lxd",
-                "stars": 4820
+                "stars": 4820,
+                "topics": [
+                  "containers",
+                  "criu",
+                  "go",
+                  "hacktoberfest",
+                  "lxc",
+                  "lxd"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             },
@@ -774,12 +1289,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FUSE filesystem for LXC",
+                "homepage": "https://linuxcontainers.org/lxcfs",
                 "id": 27918935,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-15T13:16:04Z",
+                "open_issues": 37,
                 "owner": "lxc",
                 "repo": "lxcfs",
-                "stars": 1194
+                "stars": 1194,
+                "topics": [
+                  "c",
+                  "containers",
+                  "fuse-filesystem",
+                  "lxc"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             },
@@ -790,12 +1315,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Immutable Linux OS to run Incus",
+                "homepage": "https://linuxcontainers.org/incus-os/",
                 "id": 846177060,
                 "language": "Go",
-                "last_commit": "2026-08-28T04:53:43Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:15:40Z",
+                "open_issues": 45,
                 "owner": "lxc",
                 "repo": "incus-os",
-                "stars": 1084
+                "stars": 1084,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             },
@@ -806,12 +1338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated private cloud based on LXD, Ceph and OVN",
+                "homepage": "https://canonical.com/microcloud",
                 "id": 549680163,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T07:35:46Z",
+                "open_issues": 52,
                 "owner": "canonical",
                 "repo": "microcloud",
-                "stars": 531
+                "stars": 531,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             }
@@ -829,12 +1366,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "System container image builder for LXC and Incus",
+                "homepage": "https://linuxcontainers.org",
                 "id": 118796601,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T00:13:17Z",
+                "open_issues": 27,
                 "owner": "lxc",
                 "repo": "distrobuilder",
-                "stars": 869
+                "stars": 869,
+                "topics": [
+                  "containers",
+                  "images",
+                  "incus",
+                  "lxc",
+                  "virtual-machines"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             },
@@ -845,12 +1393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LXD Image Builder",
+                "homepage": "https://canonical-lxd-imagebuilder.readthedocs-hosted.com/",
                 "id": 748250818,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-21T20:27:26Z",
+                "open_issues": 4,
                 "owner": "canonical",
                 "repo": "lxd-imagebuilder",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             }
@@ -868,12 +1421,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy and accessible container and virtual machine management. A browser interface for LXD",
+                "homepage": null,
                 "id": 549643808,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T12:14:21Z",
+                "open_issues": 44,
                 "owner": "canonical",
                 "repo": "lxd-ui",
-                "stars": 493
+                "stars": 493,
+                "topics": [
+                  "containers",
+                  "hacktoberfest",
+                  "lxc",
+                  "lxd",
+                  "virtual-machine",
+                  "web",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             },
@@ -884,12 +1450,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go bindings for liblxc",
+                "homepage": "https://linuxcontainers.org/lxc",
                 "id": 16966971,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-16T18:00:12Z",
+                "open_issues": 6,
                 "owner": "lxc",
                 "repo": "go-lxc",
-                "stars": 467
+                "stars": 467,
+                "topics": [
+                  "containers",
+                  "go",
+                  "lxc"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             },
@@ -900,12 +1475,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python module for LXD",
+                "homepage": "https://pylxd.readthedocs.io/en/latest/",
                 "id": 36316984,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T23:45:19Z",
+                "open_issues": 46,
                 "owner": "canonical",
                 "repo": "pylxd",
-                "stars": 277
+                "stars": 277,
+                "topics": [
+                  "containers",
+                  "lxd",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             },
@@ -916,12 +1500,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Incus provider for Terraform/OpenTofu",
+                "homepage": "https://linuxcontainers.org/incus",
                 "id": 732061332,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-24T15:10:46Z",
+                "open_issues": 15,
                 "owner": "lxc",
                 "repo": "terraform-provider-incus",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "containers",
+                  "hacktoberfest",
+                  "incus",
+                  "opentofu",
+                  "terraform",
+                  "virtual-machines"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             },
@@ -932,12 +1528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deployment playbooks, configurations and scripts for Incus",
+                "homepage": null,
                 "id": 757833259,
                 "language": "HCL",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-26T12:18:53Z",
+                "open_issues": 12,
                 "owner": "lxc",
                 "repo": "incus-deploy",
-                "stars": 156
+                "stars": 156,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             },
@@ -948,12 +1549,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cluster API implementation for Incus and LXD",
+                "homepage": "https://capn.linuxcontainers.org/",
                 "id": 909816595,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-28T12:52:31Z",
+                "open_issues": 6,
                 "owner": "lxc",
                 "repo": "cluster-api-provider-incus",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "cluster-api",
+                  "incus",
+                  "kubernetes",
+                  "kubernetes-deployment"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             },
@@ -964,12 +1575,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python 3.x binding for liblxc",
+                "homepage": "https://linuxcontainers.org/lxc",
                 "id": 118796103,
                 "language": "C",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-20T02:53:37Z",
+                "open_issues": 9,
                 "owner": "lxc",
                 "repo": "python3-lxc",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "containers",
+                  "hacktoberfest",
+                  "lxc",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             },
@@ -980,12 +1601,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A drop-in replacement for docker compose that runs your compose.yaml on Incus",
+                "homepage": "https://docs.incus-compose.org",
                 "id": 1271655038,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T06:19:39Z",
+                "open_issues": 9,
                 "owner": "lxc",
                 "repo": "incus-compose",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "compose",
+                  "compose-spec",
+                  "container-orchestration",
+                  "devops",
+                  "homelab",
+                  "incus",
+                  "linux-containers",
+                  "lxc",
+                  "lxd"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             },
@@ -996,12 +1632,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This driver allows Kubernetes to access LXD storage subsystems. ",
+                "homepage": null,
                 "id": 1001397741,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T14:32:50Z",
+                "open_issues": 9,
                 "owner": "canonical",
                 "repo": "lxd-csi-driver",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             }
@@ -1019,12 +1660,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful system container and virtual machine manager ",
+                "homepage": "https://linuxcontainers.org/incus",
                 "id": 669486760,
                 "language": "Go",
-                "last_commit": "2026-08-28T13:17:28Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:25:53Z",
+                "open_issues": 36,
                 "owner": "lxc",
                 "repo": "incus",
-                "stars": 6047
+                "stars": 6065,
+                "topics": [
+                  "cloud",
+                  "containers",
+                  "hacktoberfest",
+                  "virtual-machines"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             }
@@ -1042,12 +1693,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful system container and virtual machine manager ",
+                "homepage": "https://linuxcontainers.org/incus",
                 "id": 669486760,
                 "language": "Go",
-                "last_commit": "2026-08-28T13:17:28Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:25:53Z",
+                "open_issues": 36,
                 "owner": "lxc",
                 "repo": "incus",
-                "stars": 6047
+                "stars": 6065,
+                "topics": [
+                  "cloud",
+                  "containers",
+                  "hacktoberfest",
+                  "virtual-machines"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             },
@@ -1058,12 +1719,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful system container and virtual machine manager",
+                "homepage": "https://canonical.com/lxd",
                 "id": 26192117,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T15:54:47Z",
+                "open_issues": 420,
                 "owner": "canonical",
                 "repo": "lxd",
-                "stars": 4820
+                "stars": 4820,
+                "topics": [
+                  "containers",
+                  "criu",
+                  "go",
+                  "hacktoberfest",
+                  "lxc",
+                  "lxd"
+                ]
               },
               "first_seen": "2026-08-28T20:21:11.615Z"
             }
@@ -1077,15 +1750,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:21:11.615Z",
+    "last_updated": "2026-08-29T05:05:54.870Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome LXC and LXD tools, libraries and related projects.",
+      "homepage": null,
       "id": 172746671,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-22T18:17:20Z",
+      "open_issues": 1,
       "owner": "angristan",
       "repo": "awesome-lxc-lxd",
-      "stars": 57
+      "stars": 57,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "lxc",
+        "lxd"
+      ]
     },
     "original_repository_sha": "1ad75b7e86ffb037342f3285717f6baebdaf44f8",
     "enhanced_repository": "enhansome/enhansome-lxc-lxd",
